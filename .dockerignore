@@ -1,0 +1,14 @@
+.git
+.cache
+**/*.p
+**/*.csv
+**/*.html
+**/*.png
+**/*.table
+**/*.def
+**/*.idx
+**/*.xlsx
+logs/**
+plots/**
+modelling/**
+**/*.zip
